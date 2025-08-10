@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there, I'm Abdu Basith 👋
 
-<!--
-**AbdulBasithNiyas/AbdulBasithNiyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electronic and Telecommunication Engineer (Undergraduate)**  
+University of Moratuwa, Sri Lanka  
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=AbdulBasithNiyas&color=blue)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Niyas%20%20Abdul%20Basith-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨🏻‍💻 About Me
+- 🎓 3rd-year **Electronic & Telecommunication Engineering** student at the **University of Moratuwa, Sri Lanka**  
+- 💻 Currently learning Machine Learning techniques and their applications in signal processing and wireless communication systems  
+- 🤝 Open to collaborating on **Electronics projects**  
+- ✉️ Reach me at **abdulbasithniyas2002@gmail.com** or on GitHub (@AbdulBasithNiyas)  
+- 📡 Passionate about Signal Processing, Machine Learning, and Wireless Communications, with a focus on developing intelligent algorithms for efficient and reliable communication systems
+- 🎯 Future goal: Dive deep into next-generation communication networks — applying ML-driven signal processing to optimize modulation, coding, and channel estimation for enhanced data transmission and spectral efficiency
+- ⚡ *I might take breaks with sleep(8), but my code runs 24/7!*  
+
+---
+
+### 🔧 Skills
+`Python` `C` `C++` `HTML5` `CSS3` `MATLAB` `Arduino`  
+`VS Code` `Jupyter Notebooks` `Photoshop`
+
+---
+
+### 📊 My GitHub Stats
+![AashirRasadh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulBasithNiyas&show_icons=true&theme=tokyonight)  
+
+---
+
+### 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulBasithNiyas&layout=compact&theme=tokyonight)
