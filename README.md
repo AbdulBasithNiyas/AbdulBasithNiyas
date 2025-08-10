@@ -1,4 +1,4 @@
-## Hi there, I'm Abdu Basith 👋
+## Hi there, I'm Abdul Basith 👋
 
 **Electronic and Telecommunication Engineer (Undergraduate)**  
 University of Moratuwa, Sri Lanka  
