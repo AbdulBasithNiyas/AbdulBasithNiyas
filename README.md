@@ -15,13 +15,13 @@ University of Moratuwa, Sri Lanka
 - ✉️ Reach me at **abdulbasithniyas2002@gmail.com** or on GitHub (@AbdulBasithNiyas)  
 - 📡 Passionate about Signal Processing, Machine Learning, and Wireless Communications, with a focus on developing intelligent algorithms for efficient and reliable communication systems
 - 🎯 Future goal: Dive deep into next-generation communication networks — applying ML-driven signal processing to optimize modulation, coding, and channel estimation for enhanced data transmission and spectral efficiency
-- ⚡ *I might take breaks with sleep(8), but my code runs 24/7!*  
+- ⚡ *I might rest occasionally, but my spectrum stays occupied 24/7!* 
 
 ---
 
 ### 🔧 Skills
-`Python` `C` `C++` `HTML5` `CSS3` `MATLAB` `Arduino`  
-`VS Code` `Jupyter Notebooks` `Photoshop`
+`Python` `C` `C++` `MATLAB` `Arduino` `VS Code` `Jupyter Notebook`
+`Altium Designer` `Solidworks` `Photoshop`
 
 ---
 
